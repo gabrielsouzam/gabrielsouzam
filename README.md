@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Fullstack developer<br>- Software engineering student</p>
+<p align="left">- Fullstack developer<br>- Software engineering student - Federal University of Ceará<br>- E-mail: gabrielmendes01@alu.ufc.br </p>
 
 ###
 
